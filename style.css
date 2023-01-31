@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;/*Recalcula al 100 le quito 10 para que te alcanse borde y pading*/
+    padding: 0%;
+    margin: 0%;
+}/*Inicie en 0*/
+
+
+main{
+    width: 100%; /*Para dar el 100% de la página*/
+    height: 500px;
+    border: 10px solid gray;
+    padding: 26px 35px; 
+}
